@@ -1,0 +1,10 @@
+priority_order:
+  - CRMR
+  - FSMR
+  - SOCIETES SAVANTES
+  - GENERAL
+fuzzy_threshold_low: 80
+fuzzy_threshold_medium: 90
+app_title: "Attribution des tarifs — Institut Imagine"
+app_subtitle: "Outil de recommandation officielle du type de tarif"
+admin_password_hint: "À personnaliser dans les secrets Streamlit"
